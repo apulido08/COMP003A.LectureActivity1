@@ -14,6 +14,7 @@ namespace COMP003A.LectureActivity1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hi! \nMyname is Alvaro Pulido");
         }
     }
 }
